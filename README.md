@@ -11,6 +11,8 @@ Me chamo Lucas e desenvolvo pra Web há mais de 5 anos com foco em Front-End.
 - :keyboard: Experiente em HTML, CSS, JavaScript ES6+, Node.js e ReactJS
 - :blue_heart: Entusiasta do aprendizado contínuo
 
+Para saber mais, acesse também meu Website: [cafecomlucas.dev](https://cafecomlucas.dev/)
+
 
 <!--
 **cafecomlucas/cafecomlucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
