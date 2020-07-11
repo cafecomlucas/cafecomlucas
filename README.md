@@ -1,7 +1,6 @@
 # Lucas Soares :technologist:	
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/cafecomlucas)](https://github.com/cafecomlucas)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cafecomlucas/)](https://www.linkedin.com/in/cafecomlucas/)
+[![Website Badge](https://img.shields.io/badge/cafecomlucas.dev-website-blue)](https://cafecomlucas.dev/)
 
 ### Olá! 👋 Bem vindo(a) ao meu perfil
 
