@@ -3,15 +3,17 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cafecomlucas/)](https://www.linkedin.com/in/cafecomlucas/)
 [![Website Badge](https://img.shields.io/badge/cafecomlucas.dev-website-blue)](https://cafecomlucas.dev/)
 
-### Olá! 👋 Bem vindo(a) ao meu perfil
+### Hi! 👋 Welcome to my profile
 
-Me chamo Lucas e desenvolvo pra Web há mais de 5 anos com foco em Front-End.
+I'm Lucas and I have been developing for the Web for over 7 years. I'm specialized in Front-End.
 
-- :briefcase: Atualmente trabalho com Vue.js e GraphQL
-- :keyboard: Experiente em HTML, CSS, JavaScript ES6+, Node.js e ReactJS
-- :blue_heart: Entusiasta do aprendizado contínuo
+- :briefcase: I currently work with Vue.js and GraphQL
+- :keyboard: I'm experienced in HTML, CSS, JavaScript ES6+, Node.js and ReactJS
+- :blue_heart: I'm an enthusiast of continuous learning
 
-Para saber mais, acesse também meu Website: [cafecomlucas.dev](https://cafecomlucas.dev/)
+Feel free to see my projects here on GitHub :blush:
+
+And also, for more info, you're welcome to visit my website: [cafecomlucas.dev](https://cafecomlucas.dev/)
 
 
 <!--
