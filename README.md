@@ -7,8 +7,8 @@
 
 I'm Lucas and I have been developing for the Web for over 7 years. I'm specialized in Front-End.
 
-- :briefcase: I currently work with Vue.js and GraphQL
-- :keyboard: I'm experienced in HTML, CSS, JavaScript ES6+, Node.js and ReactJS
+- :briefcase: My latest work has been with React and GraphQL
+- :keyboard: I'm experienced in HTML, CSS, TypeScript, ES6+ and Node.js
 - :blue_heart: I'm an enthusiast of continuous learning
 
 Feel free to see my projects here on GitHub :blush:
