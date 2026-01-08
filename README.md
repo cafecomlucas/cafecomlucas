@@ -3,17 +3,23 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cafecomlucas/)](https://www.linkedin.com/in/cafecomlucas/)
 [![Website Badge](https://img.shields.io/badge/cafecomlucas.dev-website-blue)](https://cafecomlucas.dev/)
 
-### Hi! 👋 Welcome to my profile
+### Oi! 👋 Bem vindo ao meu perfil
 
-I'm Lucas and I have been developing for the Web for over 7 years. I'm specialized in Front-End.
+Eu sou o Lucas e desenvolvo para Web há mais de 7 anos com foco em Front-End.
 
-- :briefcase: My latest work has been with React and GraphQL
-- :keyboard: I'm experienced in HTML, CSS, TypeScript, ES6+ and Node.js
-- :blue_heart: I'm an enthusiast of continuous learning
+- :briefcase: Meu último trabalho foi com React e GraphQL
+- :keyboard: Tenho experiência com HTML5, CSS3, TypeScript, ES6+ e Node.js;
+- :blue_heart: Sou um entusiasta do aprendizado contínuo.
 
-Feel free to see my projects here on GitHub :blush:
+#### Projetos em destaque:
 
-And also, for more info, you're welcome to visit my website: [cafecomlucas.dev](https://cafecomlucas.dev/)
+- [🗺️ My Places](https://github.com/cafecomlucas/my-places): Aplicação web em Next.js (Pages Router) que gera mapa, marcadores e páginas internas. Dados cadastrados no Hygraph (headless CMS). Consultas a API do GraphQL via Apollo Client.
+- [🐶 Insta Dogs](https://github.com/cafecomlucas/insta-dogs): Aplicação Front-End responsiva com ReactJS que utiliza a API da Origamid e simula um "Instagram para cachorros". A aplicação autentica, acessa rotas, lista/adiciona/remove postagens, adiciona comentários nas postagens e exibe gráficos dinâmicos.
+- [🚗 Tabela Fipe](https://github.com/cafecomlucas/mobiauto/tree/main/tabela-fipe-app): Aplicação feita para exibir preços de compra de carros baseado na Marca, Modelo e Ano selecionados. Feito com Next.js (App Router).
+
+#### Portfólio:
+
+- 🌎 [cafecomlucas.dev](https://cafecomlucas.dev/)
 
 
 <!--
